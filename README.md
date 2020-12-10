@@ -1,4 +1,4 @@
-# State-space encoder model applied on the Nissan leaf steering
+# State-space encoder model applied on the Nissan leaf steering dataset
 
 The code accompanying a upcoming paper. 
 
